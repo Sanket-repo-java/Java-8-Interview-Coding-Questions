@@ -2,6 +2,8 @@
 This repository describes the simple java8 questions list and properly mention the answer of these questions.I am still improving the answer of hard questions with answers.
 
 List of Questions:
+
+
 1.Given a list of integers, find out all the even numbers that exist in the list using Stream functions.
  Given a list of integers, write a Java 8 program to separate the odd and even numbers into two separate lists.
 
