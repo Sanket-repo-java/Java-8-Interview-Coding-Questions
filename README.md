@@ -1,5 +1,6 @@
 # Java-8-Interview-Coding-Questions[Solution]
 This repository describes the simple java8 questions list and properly mention the answer of these questions.I am still improving the answer of hard questions with answers.
+covers all major Java 8 features** — from lambdas and streams to Nashorn and CompletableFuture — with concise explanations and code snippets.
 
 List of Questions:
 
